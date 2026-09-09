@@ -82,6 +82,14 @@ I did not automatically change questionable source data when there was not enoug
 
 ---
 
+## SQL Analysis and Database Programming
+
+I also added SQL analysis queries, stored procedures, and triggers using the same hospital database.
+
+The SQL work includes joins, aggregations, CTEs, subqueries, window functions, date analysis, validation logic, transactions, TRY/CATCH, and audit triggers using the inserted and deleted tables.
+
+---
+
 ## Power Query
 
 After connecting SQL Server to Power BI, I reviewed all 19 tables in Power Query.
@@ -250,9 +258,12 @@ Hospital-Analytics-SQL-PowerBI/
 ├── README.md
 │
 ├── sql/
-│   ├── 01_database_schema.sql
-│   ├── 02_data_import.sql
-│   └── 03_data_quality_validation.sql
+├── 01_database_schema.sql
+├── 02_data_import.sql
+├── 03_data_quality_validation.sql
+├── 04_analysis.sql
+├── 05_stored_procedures.sql
+└── 06_triggers.sql
 │
 ├── documentation/
 │   └── ETL_Troubleshooting.md
@@ -272,6 +283,9 @@ Power Query preparation: Completed
 Power BI data model: Completed
 DAX measures: Completed
 Power BI dashboard: Completed
+SQL analysis: Completed
+Stored procedures: Completed
+Database triggers: Completed
 
 
 Why I Built This Project
