@@ -186,7 +186,7 @@ It includes:
 - Admissions by Disease Category
 - Admissions by Admission Type
 
-![Executive Overview](powerbi/executive_overview.png)
+![Executive Overview](powerbi/executive_overview.jpg)
 
 ---
 
@@ -208,7 +208,7 @@ It includes:
 - Occupied Beds by Ward Type
 - Diagnostic Results by Test Category
 
-![Clinical & Operations](powerbi/clinical_operations.png)
+![Clinical & Operations](powerbi/clinical_operations.jpg)
 
 ---
 
@@ -229,7 +229,7 @@ It includes:
 - Coverage Limit by Insurance Provider
 - Total Billing by Department
 
-![Financial & Insurance](powerbi/financial_insurance.png)
+![Financial & Insurance](powerbi/financial_insurance.jpg)
 
 ---
 
